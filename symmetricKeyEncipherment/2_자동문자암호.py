@@ -1,3 +1,5 @@
+#자동키암호
+#vigenere 암호
 def vigenere(key,plain):
     result=""
     for i in range(len(plain)):
